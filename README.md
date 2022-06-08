@@ -4,5 +4,5 @@ A consumer's journey begins with the selection of a destination and the simultan
 
 Hotel operators face the challenge of providing a personalised guest experience while ensuring effective hotel operations. Modern hotel PMS solutions help hotel operators deliver the desired guest experience without compromising operational efficiency.
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8PlVmUER4fNOGUPs4Q2-__6N03sgJJxJ2A&usqp=CAU![image](https://user-images.githubusercontent.com/43106289/172698583-5e12646e-2d92-4dfe-8820-b17f96f3866c.png)
 
+![images](https://user-images.githubusercontent.com/43106289/172698740-3f3b49f0-31c9-41bf-bf48-240b64e7a36f.png)
